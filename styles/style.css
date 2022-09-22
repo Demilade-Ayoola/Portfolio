@@ -257,6 +257,8 @@ border: none;
 margin-top: 1rem;
  }
 .cinema,
+.virtual,
+.cbt,
 .europe,
 .photos,
 .bankapp,
@@ -268,10 +270,12 @@ border-radius: 10px;
 background: #011116;
 text-align: center;
 color: white;
-
+padding-top: 26px;
 } 
 
-
+.pro-p{
+  margin-bottom: 10px;
+}
 footer {
   background-color: #011116;
   color: white;
